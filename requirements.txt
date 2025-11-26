@@ -1,0 +1,6 @@
+tk
+screeninfo
+pystray
+Pillow
+plyer
+pyinstaller
