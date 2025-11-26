@@ -18,8 +18,8 @@ pip install -r requirements.txt
 python index.py
 ```
 
-## Build dự án
-Chạy lệnh sau để build dự án ra file exe:
+## Build project
+Run this command to build the project into an exe file:
 ```
 pyinstaller index.spec
 ```
